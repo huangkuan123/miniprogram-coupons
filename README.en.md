@@ -25,13 +25,15 @@
 美团联盟(需要营业执照) https://union.meituan.com/
 3.  选择下载的项目并打开
 4.  点击工具的云开发按钮，开通
-
 ![云开发](https://gitee.com/kkshell/miniprogram-coupons/raw/master/document/1608515760.jpg)
-4.  点击数据库，创建集合并导入db里面的数据即可
+
+5.  点击数据库，创建集合并导入db里面的数据即可
 ![数据库](https://gitee.com/kkshell/miniprogram-coupons/raw/master/document/1608515760.jpg)
-5.  预览调试没问题后，上传代码到微信公众平台
+
+6.  预览调试没问题后，上传代码到微信公众平台
 ![数据库](https://gitee.com/kkshell/miniprogram-coupons/raw/master/document/1608515787(1).jpg)
-6.  发布审核（具体时间不定，一般一天内即可审核完成），审核成功后发布即可
+
+7  发布审核（具体时间不定，一般一天内即可审核完成），审核成功后发布即可
 ![发布](https://gitee.com/kkshell/miniprogram-coupons/raw/master/document/1608515833(1).jpg)
 
 
