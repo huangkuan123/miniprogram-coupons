@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/delivery/index",
+    "pages/detail/detail",
+    "pages/personal/personal",
+    "pages/shop/index",
+    "pages/productDetail/index",
+    "pages/recommend/index"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "先领个券",
+    "navigationBarBackgroundColor": "#0bb9b6",
+    "backgroundColor": "#FFFFFF",
+    "titleView": false
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2",
+  "tabBar": {
+    "color": "#a9b7b7",
+    "selectedColor": "#0bb9b6",
+    "borderStyle": "white",
+    "list": [
+      {
+        "selectedIconPath": "images/index_selected.png",
+        "iconPath": "images/index.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "images/manager_select.png",
+        "iconPath": "images/manager.png",
+        "pagePath": "pages/shop/index",
+        "text": "商城"
+      },
+      {
+        "selectedIconPath": "images/express_select.png",
+        "iconPath": "images/express.png",
+        "pagePath": "pages/delivery/index",
+        "text": "查快递"
+      }
+    ]
+  }
+}
