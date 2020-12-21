@@ -48,8 +48,8 @@
 #### 欢迎打赏
 
 如果本工具对你有帮助，请支持下我呗，嘿嘿!
-![微信](https://gitee.com/kkshell/miniprogram-coupons/document/we.jpg)
-![支付宝](https://gitee.com/kkshell/miniprogram-coupons/document/ali.jpg)
+![微信](https://gitee.com/kkshell/miniprogram-coupons/raw/master/document/we.jpg)
+![支付宝](https://gitee.com/kkshell/miniprogram-coupons/raw/master/document/ali.jpg)
 
 
 
