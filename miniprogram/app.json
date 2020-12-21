@@ -29,12 +29,6 @@
         "text": "首页"
       },
       {
-        "selectedIconPath": "images/manager_select.png",
-        "iconPath": "images/manager.png",
-        "pagePath": "pages/shop/index",
-        "text": "商城"
-      },
-      {
         "selectedIconPath": "images/express_select.png",
         "iconPath": "images/express.png",
         "pagePath": "pages/delivery/index",
